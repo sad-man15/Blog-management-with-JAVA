@@ -1,0 +1,9 @@
+Ridowan
+What is database?
+database is like a base of data!
+Pranto
+What is django?
+django is a python base framework!
+Sadman
+What is react?
+react is javascript library!
